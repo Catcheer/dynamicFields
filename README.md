@@ -1,2 +1,0 @@
-# dynamicFields
-Created with CodeSandbox
